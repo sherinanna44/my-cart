@@ -1,0 +1,430 @@
+[
+    {
+        "id": 1,
+        "name": "Album",
+        "category": "Music",
+        "image": "album-1",
+        "shortDescription": "A captivating collection of melodies and rhythms, this album takes you on a journey through emotions and experiences. Feel the music.",
+        "longDescription": "Experience a symphony of emotions with this captivating album. Each track is meticulously crafted to take you on a journey through a myriad of feelings and experiences. From soulful ballads to upbeat anthems, immerse yourself in the rich tapestry of melodies and rhythms. Let the music envelop you and evoke a spectrum of emotions, making each listening session a memorable escapade into the world of sound.",
+        "price": "₹15.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [],
+        "featured": false
+    },
+    {
+        "id": 2,
+        "name": "Beanie",
+        "category": "Clothing",
+        "image": "beanie-2",
+        "shortDescription": "Stay cozy and stylish with this classic beanie. Perfect for chilly days, it adds a touch of warmth and flair to any outfit.",
+        "longDescription": "Embrace warmth and style with this classic beanie. Crafted from soft, high-quality material, it offers both comfort and durability. Whether you're hitting the slopes or strolling through the city streets, this versatile accessory is the perfect companion for chilly days. Its timeless design and snug fit make it a must-have addition to your winter wardrobe, effortlessly elevating your look with a touch of cozy charm.",
+        "price": "₹20.00",
+        "salePrice": "₹18.00",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 3,
+        "name": "Beanie with Logo",
+        "category": "Clothing",
+        "image": "beanie-with-logo-1",
+        "shortDescription": "Combine warmth with brand flair. This beanie features a sleek logo design, adding a stylish statement to your winter ensemble.",
+        "longDescription": "Stay cozy while showcasing your brand loyalty with this stylish beanie adorned with a sleek logo design. Crafted from premium materials, it offers supreme comfort and warmth during colder days. Whether you're hitting the ski slopes or running errands in town, this beanie not only keeps you snug but also elevates your style quotient with its distinctive branding. Make a fashion statement while staying snug and comfortable.",
+        "price": "₹22.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 4,
+        "name": "Belt",
+        "category": "Accessories",
+        "image": "belt-2",
+        "shortDescription": "Complete your look with this versatile belt. Crafted with precision, it adds a touch of sophistication to any outfit.",
+        "longDescription": "Elevate your ensemble with this versatile belt, meticulously crafted to perfection. Made from high-quality materials, it exudes durability and style in equal measure. Whether you're dressing up for a formal occasion or keeping it casual for a day out, this belt effortlessly cinches your waist with sophistication and flair. With its timeless design and impeccable craftsmanship, it's the perfect accessory to add a touch of refinement to any outfit.",
+        "price": "₹65.00",
+        "salePrice": "₹55.00",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 5,
+        "name": "Cap",
+        "category": "Accessories",
+        "image": "cap-2",
+        "shortDescription": "Shield yourself from the sun in style with this classic cap. Its comfortable fit and timeless design make it a wardrobe staple.",
+        "longDescription": "Stay cool and stylish under the sun with this classic cap. Crafted from breathable materials, it offers both comfort and protection during sunny days. Whether you're out for a leisurely stroll or cheering on your favorite team at the ballpark, this versatile accessory is the perfect blend of fashion and function. Its adjustable strap ensures a comfortable fit for all, while its timeless design adds a touch of casual charm to any outfit.",
+        "price": "₹18.00",
+        "salePrice": "₹16.00",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 6,
+        "name": "Hoodie",
+        "category": "Clothing",
+        "image": "hoodie-2",
+        "shortDescription": "Wrap yourself in comfort with this cozy hoodie. Perfect for lounging or casual outings, it's a wardrobe essential for any season.",
+        "longDescription": "Indulge in ultimate comfort and style with this cozy hoodie. Crafted from soft, breathable fabric, it's your go-to choice for lounging at home or running errands in town. Its relaxed fit and kangaroo pocket add a touch of laid-back charm, while the drawstring hood offers added coziness on chilly days. Whether you're layering up for outdoor adventures or simply unwinding after a long day, this hoodie is the epitome of casual chic.",
+        "price": "₹42.00 - ₹45.00",
+        "salePrice": "",
+        "variants": {
+            "attributeName": "Color",
+            "attributes": [
+                {
+                    "name": "red",
+                    "image": "hoodie-2",
+                    "price": "₹42.00"
+                },
+                {
+                    "name": "blue",
+                    "image": "hoodie-blue-1",
+                    "price": "₹44.00"
+                },
+                {
+                    "name": "green",
+                    "image": "hoodie-green-1",
+                    "price": "₹45.00"
+                }
+            ]
+        },
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 7,
+        "name": "Hoodie with Logo",
+        "category": "Clothing",
+        "image": "hoodie-with-logo-2",
+        "shortDescription": "Stay cozy with brand pride. This hoodie features a bold logo design, combining comfort with a stylish statement.",
+        "longDescription": "Showcase your brand allegiance while staying snug and stylish with this hoodie adorned with a bold logo design. Crafted from premium materials, it offers unparalleled comfort and durability, making it your go-to choice for casual outings or relaxed weekends. The striking logo adds a touch of urban flair, making a statement wherever you go. Whether you're hitting the streets or chilling at home, this hoodie effortlessly combines comfort with brand pride, ensuring you stand out in style.",
+        "price": "₹45.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 8,
+        "name": "Hoodie with Zipper",
+        "category": "Clothing",
+        "image": "hoodie-with-zipper-2",
+        "shortDescription": "Zip up in style with this versatile hoodie. Featuring a convenient zipper closure, it offers comfort and functionality in one.",
+        "longDescription": "Add a layer of style and warmth to your ensemble with this versatile hoodie featuring a convenient zipper closure. Crafted from soft, breathable fabric, it offers comfort and functionality for any occasion. Whether you're layering up for outdoor adventures or simply running errands in town, its relaxed fit and adjustable hood provide the perfect blend of comfort and style. Elevate your casual look with this wardrobe essential that seamlessly combines fashion with functionality.",
+        "price": "₹45.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 9,
+        "name": "Logo Collection",
+        "category": "Clothing",
+        "image": "logo-1",
+        "shortDescription": "Embrace brand pride with our logo collection. Featuring a range of clothing items adorned with our signature logo, it's a stylish statement of allegiance.",
+        "longDescription": "Make a bold statement of brand allegiance with our logo collection, featuring an array of clothing items adorned with our signature logo. From hoodies to caps, each piece is crafted with precision and attention to detail, offering both style and comfort. Whether you're hitting the streets or lounging at home, our logo collection allows you to showcase your brand pride in effortless style. Elevate your wardrobe with this exclusive collection and make a lasting impression wherever you go.",
+        "price": "₹100.00",
+        "salePrice": "₹85.00",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 10,
+        "name": "Long Sleeve Tee",
+        "category": "Clothing",
+        "image": "long-sleeve-tee-2",
+        "shortDescription": "Stay casual and comfortable in this versatile long sleeve tee. Perfect for layering or standalone wear, it's a wardrobe essential.",
+        "longDescription": "Achieve effortless style and comfort with this versatile long sleeve tee. Crafted from soft, breathable fabric, it's your go-to choice for casual outings or relaxed weekends. Its classic design and relaxed fit make it perfect for layering under jackets or wearing on its own, while the long sleeves offer added warmth on cooler days. Whether you're running errands or catching up with friends, this timeless essential ensures you stay comfortable and chic all day long.",
+        "price": "₹25.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 11,
+        "name": "Polo",
+        "category": "Clothing",
+        "image": "polo-2",
+        "shortDescription": "Effortlessly blend style and sophistication with this classic polo shirt. Perfect for casual outings or semi-formal occasions.",
+        "longDescription": "Elevate your casual look with this classic polo shirt, a timeless wardrobe essential that exudes sophistication and style. Crafted from high-quality materials, it offers both comfort and durability for long-lasting wear. Whether you're heading to a casual brunch or a semi-formal gathering, its polished design and impeccable tailoring ensure you make a lasting impression. Pair it with chinos for a smart-casual ensemble or dress it down with jeans for a relaxed weekend vibe.",
+        "price": "₹20.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": 12,
+        "name": "Single",
+        "category": "Music",
+        "image": "single-1",
+        "shortDescription": "Experience musical magic with this captivating single. From catchy hooks to heartfelt lyrics, it's a journey of emotions in every note.",
+        "longDescription": "Immerse yourself in a world of musical magic with this captivating single. With its infectious beats and poignant lyrics, it takes you on a journey of emotions, from exhilaration to introspection. Whether you're dancing the night away or reflecting on life's moments, each note resonates with depth and meaning, leaving an indelible imprint on your soul. Let the music sweep you off your feet and transport you to a realm of pure bliss and emotion.",
+        "price": "₹3.00",
+        "salePrice": "₹2.00",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 13,
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "image": "sunglasses-2",
+        "shortDescription": "Stylish shades for a cool look. UV protection and durable frames.",
+        "longDescription": "Elevate your style with these sleek sunglasses. Designed for both fashion and function, they offer UV protection and are crafted with durable materials for long-lasting wear. Perfect for any sunny day adventure.",
+        "price": "₹90.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [],
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "T-Shirt",
+        "category": "Clothing",
+        "image": "tshirt-2",
+        "shortDescription": "Classic comfort meets casual style in this soft cotton tee.",
+        "longDescription": "Embrace laid-back vibes with our classic T-Shirt. Made from premium cotton, it ensures superior comfort all day long. Versatile and timeless, it's a wardrobe essential that pairs effortlessly with any outfit, making it perfect for everyday wear.",
+        "price": "₹18.00",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 15,
+        "name": "T-Shirt with Logo",
+        "category": "Clothing",
+        "image": "t-shirt-with-logo-1",
+        "shortDescription": "Make a statement with our logo tee. Comfortable and stylish.",
+        "longDescription": "Show off your brand loyalty in style with our Logo T-Shirt. Crafted from soft, breathable fabric, it offers comfort without compromising on style. The bold logo adds a touch of personality, making it a standout piece for any casual occasion.",
+        "price": "₹18.48",
+        "salePrice": "",
+        "variants": {},
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": 16,
+        "name": "V-Neck T-Shirt",
+        "category": "Clothing",
+        "image": "vnech-tee-blue-1",
+        "shortDescription": "Upgrade your basics with our V-Neck Tee. Classic style, modern fit.",
+        "longDescription": "Redefine casual chic with our V-Neck T-Shirt. Its flattering silhouette and soft fabric blend offer a modern twist on a classic design. Perfect for layering or wearing solo, it's a versatile wardrobe staple that exudes effortless style and comfort.",
+        "price": "₹15.00 - ₹20.00",
+        "salePrice": "",
+        "variants": {
+            "attributeName": "Color",
+            "attributes": [
+                {
+                    "name": "blue",
+                    "image": "vnech-tee-blue-1",
+                    "price": "₹15.00"
+                },
+                {
+                    "name": "green",
+                    "image": "vnech-tee-green-1",
+                    "price": "₹18.00"
+                },
+                {
+                    "name": "red",
+                    "image": "vneck-tee-2",
+                    "price": "₹20.00"
+                }
+            ]
+        },
+        "sizes": [
+            {
+                "name": "Small",
+                "value": "S"
+            },
+            {
+                "name": "Medium",
+                "value": "M"
+            },
+            {
+                "name": "Large",
+                "value": "L"
+            }
+        ],
+        "featured": true
+    }
+]
